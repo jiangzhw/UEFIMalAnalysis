@@ -1,0 +1,507 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">UEFIMalAnalysis.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">UEFIMalAnalysis</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">3</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">3</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\John\Application Data</value>
+    <value type="QString">CATALINA_HOME=F:\Application\Apache Software Foundation</value>
+    <value type="QString">CLASSPATH=.;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\lib\dt.jar;F:\Application\Java\jdk1.6.0_23\lib\tools.jar;F:\Application\Apache Software Foundation\lib;</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=JOHN-DELLPC</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">DEVENVDIR=F:\Application\Microsoft Visual Studio 8\Common7\IDE</value>
+    <value type="QString">DXROOT=F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">FRAMEWORKDIR=C:\WINDOWS\Microsoft.NET\Framework</value>
+    <value type="QString">FRAMEWORKSDKDIR=F:\Application\Microsoft Visual Studio 8\SDK\v2.0</value>
+    <value type="QString">FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\John</value>
+    <value type="QString">INCLUDE=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\include;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\include;</value>
+    <value type="QString">JAVA_HOME=F:\Application\Java\jdk1.6.0_23</value>
+    <value type="QString">LIB=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB;F:\Application\Microsoft Visual Studio 8\VC\LIB;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\lib;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\lib;C:\Program Files\SQLXML 4.0\bin\</value>
+    <value type="QString">LIBPATH=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB</value>
+    <value type="QString">LOGONSERVER=\\JOHN-DELLPC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\qt\4.6-msvc2005\bin;F:\Application\ActivePython2.7\Scripts;F:\Application\ActivePython2.7\;F:\Application\ActiverPerl\site\bin;F:\Application\ActiverPerl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;F:\Application\MySQL\bin;C:\Program Files\Microsoft SQL Server\80\Tools\BINN;F:\Application\Java\jdk1.6.0_23\bin;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\jre\lib;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;D:\qt\4.6-msvc2005\bin;D:\qt\4.6-msvc2005\lib;F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\cygwin\bin;D:\cygwin\sbin;D:\cygwin\usr\sbin;D:\cygwin\usr\local\bin;F:\Application\Php5;F:\Application\Php5\ext;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;F:\Application\Microsoft SQL Server\90\DTS\Binn\;F:\Application\Microsoft SQL Server\90\Tools\binn\;F:\Application\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;F:\Application\Microsoft Visual Studio 8\Common7\IDE\PrivateAssemblies\;C:\Program Files\Common Files\TTKN\Bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap;F:\Application\AutoHotkey;F:\Application\MozillaFirefox;F:\Application\Tecent\QQ\Bin;C:\msysgit\msysgit\bin;F:\Application\TortoiseGit\bin;F:\Application\TortoiseSVN\bin;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.py;.pyw;.PSC1</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PROMPT=$P$G</value>
+    <value type="QString">PSMODULEPATH=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">QMAKESPEC=win32-msvc2005</value>
+    <value type="QString">QTDIR=D:/qt/4.6-msvc2005</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">USERDOMAIN=JOHN-DELLPC</value>
+    <value type="QString">USERNAME=John</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\John</value>
+    <value type="QString">VCINSTALLDIR=F:\Application\Microsoft Visual Studio 8\VC</value>
+    <value type="QString">VS80COMNTOOLS=F:\Application\Microsoft Visual Studio 8\Common7\Tools\</value>
+    <value type="QString">VSINSTALLDIR=F:\Application\Microsoft Visual Studio 8</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">F:/QtSpace/UEFIMalAnalysis/UEFIMalAnalysis.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-msvc2005</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">d:/qt/4.6-msvc2005/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/QtSpace/UEFIMalAnalysis</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\John\Application Data</value>
+    <value type="QString">CATALINA_HOME=F:\Application\Apache Software Foundation</value>
+    <value type="QString">CLASSPATH=.;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\lib\dt.jar;F:\Application\Java\jdk1.6.0_23\lib\tools.jar;F:\Application\Apache Software Foundation\lib;</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=JOHN-DELLPC</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">DEVENVDIR=F:\Application\Microsoft Visual Studio 8\Common7\IDE</value>
+    <value type="QString">DXROOT=F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">FRAMEWORKDIR=C:\WINDOWS\Microsoft.NET\Framework</value>
+    <value type="QString">FRAMEWORKSDKDIR=F:\Application\Microsoft Visual Studio 8\SDK\v2.0</value>
+    <value type="QString">FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\John</value>
+    <value type="QString">INCLUDE=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\include;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\include;</value>
+    <value type="QString">JAVA_HOME=F:\Application\Java\jdk1.6.0_23</value>
+    <value type="QString">LIB=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB;F:\Application\Microsoft Visual Studio 8\VC\LIB;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\lib;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\lib;C:\Program Files\SQLXML 4.0\bin\</value>
+    <value type="QString">LIBPATH=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB</value>
+    <value type="QString">LOGONSERVER=\\JOHN-DELLPC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\qt\4.6-msvc2005\bin;F:\Application\ActivePython2.7\Scripts;F:\Application\ActivePython2.7\;F:\Application\ActiverPerl\site\bin;F:\Application\ActiverPerl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;F:\Application\MySQL\bin;C:\Program Files\Microsoft SQL Server\80\Tools\BINN;F:\Application\Java\jdk1.6.0_23\bin;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\jre\lib;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;D:\qt\4.6-msvc2005\bin;D:\qt\4.6-msvc2005\lib;F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\cygwin\bin;D:\cygwin\sbin;D:\cygwin\usr\sbin;D:\cygwin\usr\local\bin;F:\Application\Php5;F:\Application\Php5\ext;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;F:\Application\Microsoft SQL Server\90\DTS\Binn\;F:\Application\Microsoft SQL Server\90\Tools\binn\;F:\Application\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;F:\Application\Microsoft Visual Studio 8\Common7\IDE\PrivateAssemblies\;C:\Program Files\Common Files\TTKN\Bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap;F:\Application\AutoHotkey;F:\Application\MozillaFirefox;F:\Application\Tecent\QQ\Bin;C:\msysgit\msysgit\bin;F:\Application\TortoiseGit\bin;F:\Application\TortoiseSVN\bin;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.py;.pyw;.PSC1</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PROMPT=$P$G</value>
+    <value type="QString">PSMODULEPATH=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">QMAKESPEC=win32-msvc2005</value>
+    <value type="QString">QTDIR=D:/qt/4.6-msvc2005</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">USERDOMAIN=JOHN-DELLPC</value>
+    <value type="QString">USERNAME=John</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\John</value>
+    <value type="QString">VCINSTALLDIR=F:\Application\Microsoft Visual Studio 8\VC</value>
+    <value type="QString">VS80COMNTOOLS=F:\Application\Microsoft Visual Studio 8\Common7\Tools\</value>
+    <value type="QString">VSINSTALLDIR=F:\Application\Microsoft Visual Studio 8</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList"/>
+   <value key="abstractProcess.command" type="QString">D:/QtSDK2009/bin/jom.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/QtSpace/UEFIMalAnalysis</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\John\Application Data</value>
+    <value type="QString">CATALINA_HOME=F:\Application\Apache Software Foundation</value>
+    <value type="QString">CLASSPATH=.;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\lib\dt.jar;F:\Application\Java\jdk1.6.0_23\lib\tools.jar;F:\Application\Apache Software Foundation\lib;</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=JOHN-DELLPC</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">DEVENVDIR=F:\Application\Microsoft Visual Studio 8\Common7\IDE</value>
+    <value type="QString">DXROOT=F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">FRAMEWORKDIR=C:\WINDOWS\Microsoft.NET\Framework</value>
+    <value type="QString">FRAMEWORKSDKDIR=F:\Application\Microsoft Visual Studio 8\SDK\v2.0</value>
+    <value type="QString">FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\John</value>
+    <value type="QString">INCLUDE=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\include;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\include;</value>
+    <value type="QString">JAVA_HOME=F:\Application\Java\jdk1.6.0_23</value>
+    <value type="QString">LIB=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB;F:\Application\Microsoft Visual Studio 8\VC\LIB;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\lib;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\lib;C:\Program Files\SQLXML 4.0\bin\</value>
+    <value type="QString">LIBPATH=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB</value>
+    <value type="QString">LOGONSERVER=\\JOHN-DELLPC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\qt\4.6-msvc2005\bin;F:\Application\ActivePython2.7\Scripts;F:\Application\ActivePython2.7\;F:\Application\ActiverPerl\site\bin;F:\Application\ActiverPerl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;F:\Application\MySQL\bin;C:\Program Files\Microsoft SQL Server\80\Tools\BINN;F:\Application\Java\jdk1.6.0_23\bin;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\jre\lib;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;D:\qt\4.6-msvc2005\bin;D:\qt\4.6-msvc2005\lib;F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\cygwin\bin;D:\cygwin\sbin;D:\cygwin\usr\sbin;D:\cygwin\usr\local\bin;F:\Application\Php5;F:\Application\Php5\ext;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;F:\Application\Microsoft SQL Server\90\DTS\Binn\;F:\Application\Microsoft SQL Server\90\Tools\binn\;F:\Application\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;F:\Application\Microsoft Visual Studio 8\Common7\IDE\PrivateAssemblies\;C:\Program Files\Common Files\TTKN\Bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap;F:\Application\AutoHotkey;F:\Application\MozillaFirefox;F:\Application\Tecent\QQ\Bin;C:\msysgit\msysgit\bin;F:\Application\TortoiseGit\bin;F:\Application\TortoiseSVN\bin;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.py;.pyw;.PSC1</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PROMPT=$P$G</value>
+    <value type="QString">PSMODULEPATH=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">QMAKESPEC=win32-msvc2005</value>
+    <value type="QString">QTDIR=D:/qt/4.6-msvc2005</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">USERDOMAIN=JOHN-DELLPC</value>
+    <value type="QString">USERNAME=John</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\John</value>
+    <value type="QString">VCINSTALLDIR=F:\Application\Microsoft Visual Studio 8\VC</value>
+    <value type="QString">VS80COMNTOOLS=F:\Application\Microsoft Visual Studio 8\Common7\Tools\</value>
+    <value type="QString">VSINSTALLDIR=F:\Application\Microsoft Visual Studio 8</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">D:/QtSDK2009/bin/jom.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/QtSpace/UEFIMalAnalysis</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">ANT_HOME=F:\Application\Groovy-1.7.8</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\John\Application Data</value>
+    <value type="QString">CATALINA_HOME=F:\Application\Apache Software Foundation</value>
+    <value type="QString">CLASSPATH=.;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\lib\dt.jar;F:\Application\Java\jdk1.6.0_23\lib\tools.jar;F:\Application\Apache Software Foundation\lib;F:\Application\Microsoft SQL Server JDBC Driver 3.0\sqljdbc_3.0\enu\sqljdbc4.jar;F:\Application\Microsoft SQL Server JDBC Driver 3.0\sqljdbc_3.0\enu\sqljdbc.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\msbase.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\mssqlserver.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\msutil.jar;F:\Application\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=JOHN-DELLPC</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">DEVENVDIR=F:\Application\Microsoft Visual Studio 8\Common7\IDE</value>
+    <value type="QString">DXROOT=F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">FRAMEWORKDIR=C:\WINDOWS\Microsoft.NET\Framework</value>
+    <value type="QString">FRAMEWORKSDKDIR=F:\Application\Microsoft Visual Studio 8\SDK\v2.0</value>
+    <value type="QString">FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString">GROOVY_HOME=F:\Application\Groovy-1.7.8</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\John</value>
+    <value type="QString">INCLUDE=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\include;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\include;</value>
+    <value type="QString">JAVA_HOME=F:\Application\Java\jdk1.6.0_23</value>
+    <value type="QString">LIB=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB;F:\Application\Microsoft Visual Studio 8\VC\LIB;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\lib;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\lib;C:\Program Files\SQLXML 4.0\bin\</value>
+    <value type="QString">LIBPATH=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB</value>
+    <value type="QString">LOGONSERVER=\\JOHN-DELLPC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\qt\4.6-msvc2005\bin;F:\Application\ActivePerl5.12\bin;F:\Application\ActivePerl5.12\site\bin;C:\Program Files\WI8DE7~1\Tools\;F:\Application\ActivePython2.7\Scripts;F:\Application\ActivePython2.7;F:\Application\ActiverPerl\site\bin;F:\Application\ActiverPerl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;F:\Application\MySQL\bin;C:\Program Files\MICROS~2\80\Tools\BINN;F:\Application\Java\jdk1.6.0_23\bin;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\jre\lib;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;D:\qt\4.6-msvc2005\bin;D:\qt\4.6-msvc2005\lib;F:\Application\MICROS~2\Common7\IDE;F:\Application\MICROS~2\VC\BIN;F:\Application\MICROS~2\Common7\Tools;F:\Application\MICROS~2\Common7\Tools\bin;F:\Application\MICROS~2\VC\PlatformSDK\bin;F:\Application\MICROS~2\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\MICROS~2\VC\VCPackages;D:\cygwin\bin;D:\cygwin\sbin;D:\cygwin\usr\sbin;D:\cygwin\usr\local\bin;F:\Application\Php5;F:\Application\Php5\ext;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;F:\Application\Microsoft SQL Server\90\DTS\Binn\;F:\Application\Microsoft SQL Server\90\Tools\binn\;F:\Application\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;F:\Application\MICROS~2\Common7\IDE\PrivateAssemblies\;C:\Program Files\Common Files\TTKN\Bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap;F:\Application\AutoHotkey\AutoHotkey104805;F:\Application\MozillaFirefox;F:\Application\Tecent\QQ\Bin;C:\msysgit\msysgit\bin;F:\Application\TortoiseGit\bin;F:\Application\TortoiseSVN\bin;F:\Application\GRaphviz\bin;F:\Application\Groovy-1.7.8\bin;D:\PDPT;F:\Application\QuickTime\QTSystem\;F:\Application\Nmap</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.py;.pyw;.PSC1;.groovy;.gy;.groovy;.gy;.groovy;.gy</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PROMPT=$P$G</value>
+    <value type="QString">PSMODULEPATH=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">QMAKESPEC=win32-msvc2005</value>
+    <value type="QString">QTDIR=D:/qt/4.6-msvc2005</value>
+    <value type="QString">QTJAVA=F:\Application\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">USERDOMAIN=JOHN-DELLPC</value>
+    <value type="QString">USERNAME=John</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\John</value>
+    <value type="QString">VCINSTALLDIR=F:\Application\Microsoft Visual Studio 8\VC</value>
+    <value type="QString">VS80COMNTOOLS=F:\Application\MICROS~2\Common7\Tools\</value>
+    <value type="QString">VSINSTALLDIR=F:\Application\Microsoft Visual Studio 8</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">F:/QtSpace/UEFIMalAnalysis/UEFIMalAnalysis.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-msvc2005</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=release</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">d:/qt/4.6-msvc2005/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/QtSpace/UEFIMalAnalysis</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">ANT_HOME=F:\Application\Groovy-1.7.8</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\John\Application Data</value>
+    <value type="QString">CATALINA_HOME=F:\Application\Apache Software Foundation</value>
+    <value type="QString">CLASSPATH=.;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\lib\dt.jar;F:\Application\Java\jdk1.6.0_23\lib\tools.jar;F:\Application\Apache Software Foundation\lib;F:\Application\Microsoft SQL Server JDBC Driver 3.0\sqljdbc_3.0\enu\sqljdbc4.jar;F:\Application\Microsoft SQL Server JDBC Driver 3.0\sqljdbc_3.0\enu\sqljdbc.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\msbase.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\mssqlserver.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\msutil.jar;F:\Application\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=JOHN-DELLPC</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">DEVENVDIR=F:\Application\Microsoft Visual Studio 8\Common7\IDE</value>
+    <value type="QString">DXROOT=F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">FRAMEWORKDIR=C:\WINDOWS\Microsoft.NET\Framework</value>
+    <value type="QString">FRAMEWORKSDKDIR=F:\Application\Microsoft Visual Studio 8\SDK\v2.0</value>
+    <value type="QString">FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString">GROOVY_HOME=F:\Application\Groovy-1.7.8</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\John</value>
+    <value type="QString">INCLUDE=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\include;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\include;</value>
+    <value type="QString">JAVA_HOME=F:\Application\Java\jdk1.6.0_23</value>
+    <value type="QString">LIB=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB;F:\Application\Microsoft Visual Studio 8\VC\LIB;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\lib;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\lib;C:\Program Files\SQLXML 4.0\bin\</value>
+    <value type="QString">LIBPATH=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB</value>
+    <value type="QString">LOGONSERVER=\\JOHN-DELLPC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\qt\4.6-msvc2005\bin;F:\Application\ActivePerl5.12\bin;F:\Application\ActivePerl5.12\site\bin;C:\Program Files\WI8DE7~1\Tools\;F:\Application\ActivePython2.7\Scripts;F:\Application\ActivePython2.7;F:\Application\ActiverPerl\site\bin;F:\Application\ActiverPerl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;F:\Application\MySQL\bin;C:\Program Files\MICROS~2\80\Tools\BINN;F:\Application\Java\jdk1.6.0_23\bin;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\jre\lib;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;D:\qt\4.6-msvc2005\bin;D:\qt\4.6-msvc2005\lib;F:\Application\MICROS~2\Common7\IDE;F:\Application\MICROS~2\VC\BIN;F:\Application\MICROS~2\Common7\Tools;F:\Application\MICROS~2\Common7\Tools\bin;F:\Application\MICROS~2\VC\PlatformSDK\bin;F:\Application\MICROS~2\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\MICROS~2\VC\VCPackages;D:\cygwin\bin;D:\cygwin\sbin;D:\cygwin\usr\sbin;D:\cygwin\usr\local\bin;F:\Application\Php5;F:\Application\Php5\ext;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;F:\Application\Microsoft SQL Server\90\DTS\Binn\;F:\Application\Microsoft SQL Server\90\Tools\binn\;F:\Application\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;F:\Application\MICROS~2\Common7\IDE\PrivateAssemblies\;C:\Program Files\Common Files\TTKN\Bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap;F:\Application\AutoHotkey\AutoHotkey104805;F:\Application\MozillaFirefox;F:\Application\Tecent\QQ\Bin;C:\msysgit\msysgit\bin;F:\Application\TortoiseGit\bin;F:\Application\TortoiseSVN\bin;F:\Application\GRaphviz\bin;F:\Application\Groovy-1.7.8\bin;D:\PDPT;F:\Application\QuickTime\QTSystem\;F:\Application\Nmap</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.py;.pyw;.PSC1;.groovy;.gy;.groovy;.gy;.groovy;.gy</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PROMPT=$P$G</value>
+    <value type="QString">PSMODULEPATH=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">QMAKESPEC=win32-msvc2005</value>
+    <value type="QString">QTDIR=D:/qt/4.6-msvc2005</value>
+    <value type="QString">QTJAVA=F:\Application\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">USERDOMAIN=JOHN-DELLPC</value>
+    <value type="QString">USERNAME=John</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\John</value>
+    <value type="QString">VCINSTALLDIR=F:\Application\Microsoft Visual Studio 8\VC</value>
+    <value type="QString">VS80COMNTOOLS=F:\Application\MICROS~2\Common7\Tools\</value>
+    <value type="QString">VSINSTALLDIR=F:\Application\Microsoft Visual Studio 8</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList"/>
+   <value key="abstractProcess.command" type="QString">D:/QtSDK2009/bin/jom.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/QtSpace/UEFIMalAnalysis</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">ANT_HOME=F:\Application\Groovy-1.7.8</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\John\Application Data</value>
+    <value type="QString">CATALINA_HOME=F:\Application\Apache Software Foundation</value>
+    <value type="QString">CLASSPATH=.;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\lib\dt.jar;F:\Application\Java\jdk1.6.0_23\lib\tools.jar;F:\Application\Apache Software Foundation\lib;F:\Application\Microsoft SQL Server JDBC Driver 3.0\sqljdbc_3.0\enu\sqljdbc4.jar;F:\Application\Microsoft SQL Server JDBC Driver 3.0\sqljdbc_3.0\enu\sqljdbc.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\msbase.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\mssqlserver.jar;C:\Program Files\Microsoft SQL Server 2000 Driver for JDBC\lib\msutil.jar;F:\Application\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">CLIENTNAME=Console</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=JOHN-DELLPC</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">DEVENVDIR=F:\Application\Microsoft Visual Studio 8\Common7\IDE</value>
+    <value type="QString">DXROOT=F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">FRAMEWORKDIR=C:\WINDOWS\Microsoft.NET\Framework</value>
+    <value type="QString">FRAMEWORKSDKDIR=F:\Application\Microsoft Visual Studio 8\SDK\v2.0</value>
+    <value type="QString">FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString">GROOVY_HOME=F:\Application\Groovy-1.7.8</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Documents and Settings\John</value>
+    <value type="QString">INCLUDE=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\INCLUDE;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\include;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\include;</value>
+    <value type="QString">JAVA_HOME=F:\Application\Java\jdk1.6.0_23</value>
+    <value type="QString">LIB=F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB;F:\Application\Microsoft Visual Studio 8\VC\LIB;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\lib;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\lib;C:\Program Files\SQLXML 4.0\bin\</value>
+    <value type="QString">LIBPATH=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\ATLMFC\LIB</value>
+    <value type="QString">LOGONSERVER=\\JOHN-DELLPC</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=F:\Application\Microsoft Visual Studio 8\Common7\IDE;F:\Application\Microsoft Visual Studio 8\VC\BIN;F:\Application\Microsoft Visual Studio 8\Common7\Tools;F:\Application\Microsoft Visual Studio 8\Common7\Tools\bin;F:\Application\Microsoft Visual Studio 8\VC\PlatformSDK\bin;F:\Application\Microsoft Visual Studio 8\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\Microsoft Visual Studio 8\VC\VCPackages;D:\qt\4.6-msvc2005\bin;F:\Application\ActivePerl5.12\bin;F:\Application\ActivePerl5.12\site\bin;C:\Program Files\WI8DE7~1\Tools\;F:\Application\ActivePython2.7\Scripts;F:\Application\ActivePython2.7;F:\Application\ActiverPerl\site\bin;F:\Application\ActiverPerl\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;F:\Application\MySQL\bin;C:\Program Files\MICROS~2\80\Tools\BINN;F:\Application\Java\jdk1.6.0_23\bin;F:\Application\Java\jdk1.6.0_23\lib;F:\Application\Java\jdk1.6.0_23\jre\lib;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs;D:\qt\4.6-msvc2005\bin;D:\qt\4.6-msvc2005\lib;F:\Application\MICROS~2\Common7\IDE;F:\Application\MICROS~2\VC\BIN;F:\Application\MICROS~2\Common7\Tools;F:\Application\MICROS~2\Common7\Tools\bin;F:\Application\MICROS~2\VC\PlatformSDK\bin;F:\Application\MICROS~2\SDK\v2.0\bin;C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727;F:\Application\MICROS~2\VC\VCPackages;D:\cygwin\bin;D:\cygwin\sbin;D:\cygwin\usr\sbin;D:\cygwin\usr\local\bin;F:\Application\Php5;F:\Application\Php5\ext;C:\Program Files\Microsoft SQL Server\80\Tools\Binn\;F:\Application\Microsoft SQL Server\90\DTS\Binn\;F:\Application\Microsoft SQL Server\90\Tools\binn\;F:\Application\Microsoft SQL Server\90\Tools\Binn\VSShell\Common7\IDE\;F:\Application\MICROS~2\Common7\IDE\PrivateAssemblies\;C:\Program Files\Common Files\TTKN\Bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;%APPDATA%\Python\Scripts;F:\Application\UltraEdit\;F:\Application\VisualStudio2005SDK\2007.02\VisualStudioIntegration\Tools\Sandcastle\ProductionTools\;F:\Application\Nmap;F:\Application\AutoHotkey\AutoHotkey104805;F:\Application\MozillaFirefox;F:\Application\Tecent\QQ\Bin;C:\msysgit\msysgit\bin;F:\Application\TortoiseGit\bin;F:\Application\TortoiseSVN\bin;F:\Application\GRaphviz\bin;F:\Application\Groovy-1.7.8\bin;D:\PDPT;F:\Application\QuickTime\QTSystem\;F:\Application\Nmap</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.py;.pyw;.PSC1;.groovy;.gy;.groovy;.gy;.groovy;.gy</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 23 Stepping 10, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=170a</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PROMPT=$P$G</value>
+    <value type="QString">PSMODULEPATH=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">QMAKESPEC=win32-msvc2005</value>
+    <value type="QString">QTDIR=D:/qt/4.6-msvc2005</value>
+    <value type="QString">QTJAVA=F:\Application\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\John\LOCALS~1\Temp</value>
+    <value type="QString">USERDOMAIN=JOHN-DELLPC</value>
+    <value type="QString">USERNAME=John</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\John</value>
+    <value type="QString">VCINSTALLDIR=F:\Application\Microsoft Visual Studio 8\VC</value>
+    <value type="QString">VS80COMNTOOLS=F:\Application\MICROS~2\Common7\Tools\</value>
+    <value type="QString">VSINSTALLDIR=F:\Application\Microsoft Visual Studio 8</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">D:/QtSDK2009/bin/jom.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/QtSpace/UEFIMalAnalysis</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

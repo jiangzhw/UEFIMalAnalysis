@@ -1,0 +1,38 @@
+# if defined(UNDER_CE)
+#  include <winbase.h>
+# else
+#  include <winver.h>
+# endif
+
+IDI_ICON1           ICON   DISCARDABLE   "images\\UEFIlogo.ico"
+
+VS_VERSION_INFO VERSIONINFO
+	FILEVERSION 0,3,1,0
+	PRODUCTVERSION 0,3,1,0
+	FILEFLAGSMASK 0x3fL
+    FILEOS VOS__WINDOWS32
+    FILETYPE  VFT_APP
+#ifdef _DEBUG
+	FILEFLAGS VS_FF_DEBUG
+#else
+	FILEFLAGS 0x0L
+#endif
+	FILEOS VOS__WINDOWS32
+	FILETYPE VFT_DLL
+	FILESUBTYPE 0x0L
+	BEGIN
+		BLOCK "StringFileInfo"
+		BEGIN
+			BLOCK "040904B0"
+			BEGIN
+				VALUE "CompanyName", "中科院高能所网络安全实验室\0"
+				VALUE "FileDescription", "UEFI恶意代码检测主程序.\0"
+				VALUE "FileVersion", "0.3.1\0"
+				VALUE "LegalCopyright", "Copyright@2010-2011,本应用程序使用Qt4.6 开发,遵守LGPL 协议.\0"
+				VALUE "OriginalFilename", "UEFI恶意代码检测.exe\0"
+				VALUE "ProductName", "UEFI恶意代码检测程序\0"
+			END
+		END
+	END
+/* End of Version info */
+

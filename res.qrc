@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/UEFIlogo.ico</file>
+        <file>qm/qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
