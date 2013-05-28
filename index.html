@@ -1,0 +1,90 @@
+<!doctype html>
+<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
+<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen"/>
+  <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/script.js"></script>
+
+  <title>Uefimalanalysis</title>
+  <meta name="description" content="A program written in Qt 4.6 to detect UEFI malicious code statically. ">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+</head>
+
+<body>
+
+  <div class="wrapper">
+    <header>
+      <h1 class="title">Uefimalanalysis</h1>
+    </header>
+    <div id="container">
+      <p class="tagline">A program written in Qt 4.6 to detect UEFI malicious code statically. </p>
+      <div id="main" role="main">
+        <div class="download-bar">
+        <div class="inner">
+          <a href="https://github.com/jiangzhw/UEFIMalAnalysis/tarball/master" class="download-button tar"><span>Download</span></a>
+          <a href="https://github.com/jiangzhw/UEFIMalAnalysis/zipball/master" class="download-button zip"><span>Download</span></a>
+          <a href="https://github.com/jiangzhw/UEFIMalAnalysis" class="code">View Uefimalanalysis on GitHub</a>
+        </div>
+        <span class="blc"></span><span class="trc"></span>
+        </div>
+        <article class="markdown-body">
+          <p>1.UEFIMalAnalysis是UEFI恶意代码检测程序。
+2.除了UEFIFiles中的文件(efi文件在上传时已被删除，请联系本人)外，请勿移动或修改其它目录、文件。</p>
+
+<p>3.一次UEFI恶意代码检测的使用流程：
+3.00  与3.01 是针对有规则配置权限的用户的功能。程序启动时，已读入了上次已保存的规则，所以不必预先定义规则。
+3.01: 勾选 "定义危险UEFI文件规则"，弹出登录界面，账号与密码分别为admin,uefiadmin,登录后，可以定义规则。
+3.01：选择一组特征码函数，点击“添加”，程序在判断不存在该组特征函数的子集或超集存在的情况下，该组特征函数组成的规则被添加，并且有规则的汇集更新显示。
+已有的规则可以删除或双击，可以清空，可以保存。
+3.1：用户浏览(默认为从UEFIFiles文件夹中)读入待分析的UEFI文件，选择用户权限，点击“开始分析”，即弹出各个文件的分析进度条，还有总体分析进度显示。
+3.2 ：分析完毕，在UEFI文件分析提示框中显示分析结果，包括各个文件对各条规则的分析情况，当已定义的规则中某个函数的特征码被找到时，会有相应的源代码显示，并作出已分析的文件是否为危险文件的结论, 当疑为危险文件时以红色突出显示。</p>
+
+<p>4.为保证界面美观，建议选择最大化显示。
+5.技术支持email:<a href="mailto:jiangzw@ihep.ac.cn">jiangzw@ihep.ac.cn</a></p>
+
+<ol>
+<li>Brief introduction:
+A program written in Qt 4.6 to detect UEFI malicious code statically. </li>
+</ol><p>Two types rules are pre-defined,which are administrator type and normal users.
+Each rule can be consist of the selection of set  "Strcpy,IpIoAddIp,IpIoRemoveIp,
+NetBufCopy,AsciiStrCopy,NetStringToIp,SockClone,WriteUnaligned64".</p>
+
+<p>Main code is in the mainwindows.cpp,and the hexadecimal conversion from efi file is finished in qhexedit_p.cpp;</p>
+
+<p>UEFI files *.efi are attached in the directory of release/UEFIFiles.</p>
+
+<p>Relative paper link is :<a href="http://www.cqvip.com/QK/91690X/201232/43856767.html">http://www.cqvip.com/QK/91690X/201232/43856767.html</a></p>
+
+<p>2.How to use
+Import the file-dir to Qt creator 1.3+.</p>
+        </article>
+      </div>
+    </div>
+    <footer>
+      <div class="owner">
+      <p><a href="https://github.com/jiangzhw" class="avatar"><img src="https://secure.gravatar.com/avatar/1ef23e85c7fbb3514e884995e6a085b7?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="48" height="48"/></a> <a href="https://github.com/jiangzhw">jiangzhw</a> maintains <a href="https://github.com/jiangzhw/UEFIMalAnalysis">Uefimalanalysis</a></p>
+
+
+      </div>
+      <div class="creds">
+        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br/>theme by <a href="http://twitter.com/jonrohan/">Jon Rohan</a></small>
+      </div>
+    </footer>
+  </div>
+  <div class="current-section">
+    <a href="#top">Scroll to top</a>
+    <a href="https://github.com/jiangzhw/UEFIMalAnalysis/tarball/master" class="tar">tar</a><a href="https://github.com/jiangzhw/UEFIMalAnalysis/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
+    <p class="name"></p>
+  </div>
+
+  
+</body>
+</html>
